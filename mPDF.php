@@ -33217,12 +33217,4 @@ function SetJS($script) {
 	$this->js = $script;
 }
 
-
-
-
 }//end of Class
-
-
-
-
-?>
